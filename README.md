@@ -34,7 +34,7 @@ Analyse approfondie de la rentabilité d'une entreprise de distribution.
 * **LinkedIn** : [LÉA NGOH]
 * **Email** : [ngohlea4@gmail.com]
 
-![Capture d'écran de mon dernier Dashboard]DASHBOARD.png)
+![Capture d'écran de mon dernier Dashboard](DASHBOARD.png)
 
 <!--
 
