@@ -34,7 +34,13 @@ Analyse approfondie de la rentabilité d'une entreprise de distribution.
 * **LinkedIn** : [LÉA NGOH]
 * **Email** : [ngohlea4@gmail.com]
 
-![Capture d'écran de mon dernier Dashboard](DASHBOARD.png)
+---
 
+## 🚀 Mon Projet Phare
+### [Analyse de Performance Superstore (Excel)](https://github.com/LeaNgoh/Analyse-Ventes-Superstore-Excel)
+
+Voici un aperçu du dashboard final que j'ai réalisé. Ce graphique combiné permet de comparer le volume des ventes (en barres) avec la rentabilité réelle et le taux de marge (en lignes) :
+
+![Capture d'écran de mon Dashboard](![Analyse Rentabilité Excel](https://raw.githubusercontent.com/LeaNgoh/Analyse-Ventes-Superstore-Excel/main/17670715262122147283263585449553_bf7032.png))
 <!--
 
