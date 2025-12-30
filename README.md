@@ -33,7 +33,8 @@ Analyse approfondie de la rentabilité d'une entreprise de distribution.
 ## 📫 Me contacter
 * **LinkedIn** : [LÉA NGOH]
 * **Email** : [ngohlea4@gmail.com]
-
+## 📫 Mon dernier DASHBORD 
+![Dashboard](https://raw.githubusercontent.com/LeaNgoh/Analyse-Ventes-Superstore-Excel/main/DASHBORD.png)
 ---
 
 ## 🚀 Mon Projet Phare
