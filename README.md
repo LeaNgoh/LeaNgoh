@@ -1,44 +1,41 @@
 # 👋 Bienvenue sur mon Portfolio !
-# Je suis Léa Ngoh — Data Analyst 📊
 
-Passionnée par l'analyse de données, je me spécialise dans la transformation de données brutes en indicateurs visuels stratégiques pour faciliter la prise de décision.
+## Je suis Léa Ngoh — Data Analyst 📊
 
----
-
-## 🛠️ Compétences Techniques
-* **Analyse de Données** : Nettoyage de bases de données, Tableaux Croisés Dynamiques (TCD).
-* **Visualisation** : Création de Dashboards interactifs avec Segments et Chronologies.
-* **Expertise Excel** : Maîtrise des graphiques combinés complexes avec double axe (Euros vs %).
-* **Outils** : Microsoft Excel, GitHub.
+Je transforme des données brutes en **insights stratégiques** pour aider les organisations à prendre des décisions éclairées. Mon approche combine la puissance de l'analyse statistique, l'automatisation via Python et la clarté visuelle de Power BI.
 
 ---
 
-## 🚀 Projets à la Une
+## 🚀 Projet Phare : Analyse de Conversion des Prêts Bancaires
+**Le défi :** Identifier les clients à haut potentiel pour une campagne de prêt personnel.
 
-### [Analyse de Performance Superstore (Excel)](https://github.com/LeaNgoh/Analyse-Ventes-Superstore-Excel)
-Analyse approfondie de la rentabilité d'une entreprise de distribution.
-* **Objectif** : Identifier les catégories de produits sous-performantes.
-* **Réalisation** : Dashboard dynamique permettant de filtrer par Région, État et Segment de clientèle.
-* **Insight Clé** : Mise en évidence de la faible marge de la catégorie **Furniture** (3,88%) malgré un volume de ventes élevé.
+* **Expertise technique :** Nettoyage de données complexes avec **Python** (Pandas) et modélisation de données.
+* **Impact métier :** Création d'un dashboard interactif permettant de segmenter les clients selon leur revenu et leur comportement de dépense.
+* **Résultat :** Mise en évidence des segments prioritaires (revenus > 100k$) pour maximiser le ROI marketing.
+
+🔗 **[Explorer le projet](https://github.com/LeaNgoh/Analyse-Pret-Bancaire-PowerBI)**
 
 ---
 
-## 📈 Statistiques & Objectifs
-* 🎯 Actuellement en train de perfectionner mes analyses sur Excel.
-* 🔭 À la recherche de nouveaux jeux de données pour explorer des insights business.
-* 💬 N'hésitez pas à me contacter pour discuter de Data Analysis ou de stratégie business !
+## 🛠️ Ma Stack Technique
+
+| Domaine | Outils & Langages |
+| :--- | :--- |
+| **Analyse & Scripting** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Business Intelligence** | Power BI (DAX, Power Query), Excel (VBA) |
+| **Base de données** | SQL |
+| **Outils de collaboration** | Git, GitHub, VS Code |
+
+---
+
+## 📊 Statistiques GitHub
+![Statistiques de Léa](https://github-readme-stats.vercel.app/api?username=LeaNgoh&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Me contacter
-* **LinkedIn** : [LÉA NGOH]
-* **Email** : [ngohlea4@gmail.com]
+* 💼 **LinkedIn :** [LEA NGOH] https://www.linkedin.com/in/l%C3%A9a-ngoh-8b7012327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* ✉️ **E-mail :** [ngohlea4@gmail.com]
 
 ---
-
-## 🚀 Mon Projet Phare
-### [Analyse de Performance Superstore (Excel)](https://github.com/LeaNgoh/Analyse-Ventes-Superstore-Excel)
-
-
-<!--
-
+*« Derrière chaque donnée se cache une opportunité de croissance. »*
